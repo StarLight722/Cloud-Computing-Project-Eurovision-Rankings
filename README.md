@@ -9,7 +9,7 @@ I plan to come back to this as a side project at some point when I get better at
 
 Another plan is to input a separate section for the upcoming ESC Asia.
 
-If you wish to view my current updated rankings and what national finals I've ranked (as well as my other related rankings), there is a link to each spreadsheet at the bottom of each html in the "templates" folder.
+If you wish to view my current updated rankings and what national finals I've ranked (as well as my other related rankings), there is a link to each spreadsheet towards the bottom of each html in the "templates" folder except home.html. It is within one of the <a>, same line as "The Master Spreadsheet" for each
 
 
-Hope I will come back to this!
+Hope I will come back to this! And hello to whoever has decided to read this :)
